@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rinai-R
-- 👀 I’m interested in Golang
+- 👀 I’m interested in BackEnd
 - 🌱 I’m currently learning linux，Golang，redis，MySQL，ElasticSearch
 - 📫 How to reach me 2024211885@stu.cqupt.edu.cn
 - ✒️ My blog:
