@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rinai-R
 - 👀 I’m interested in Golang
-- 🌱 I’m currently learning linux，Golang，redis，MySQL
+- 🌱 I’m currently learning linux，Golang，redis，MySQL，ElasticSearch
 - 📫 How to reach me 2024211885@stu.cqupt.edu.cn
 - ✒️ My blog:
 https://blog.csdn.net/qq_60409213?spm=1010.2135.3001.5421
