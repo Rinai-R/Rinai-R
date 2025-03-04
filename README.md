@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rinai-R
 - 👀 I’m interested in BackEnd
 - 🌱 I’m currently learning Golang
-- 📫 How to reach me 2024211885@stu.cqupt.edu.cn
+- 📫 How to reach me rinai@g-rinai.cn
 - ✒️ My blog: [[CSDN-Rinai-R]](https://blog.csdn.net/qq_60409213?spm=1010.2135.3001.5421)
 <!---
 Rinai-R/Rinai-R is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
