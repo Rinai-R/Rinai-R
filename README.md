@@ -8,3 +8,6 @@ Rinai-R/Rinai-R is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rinai-R&layout=compact&theme=tokyonight)![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rinai-R&show_icons=true&theme=tokyonight)
+
+![Visitor Count](https://profile-counter.glitch.me/Rinai-R/count.svg)
