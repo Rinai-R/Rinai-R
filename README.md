@@ -4,7 +4,7 @@
 - 📫 How to reach me rinai@g-rinai.cn
 - ✒️ My blog: 
   - [[CSDN-Rinai-R]](https://blog.csdn.net/qq_60409213?spm=1010.2135.3001.5421)
-  - [[Personal-Website]](https://rinai-r.github.io/)
+  - [[Personal-Website]](https://blog.g-rinai.cn/)
 
 欢迎来参观😇
 
