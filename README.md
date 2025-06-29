@@ -8,3 +8,5 @@
 > - 笔记站：[[Notes-Site]](https://rs-notes.gitbook.io/r)
 
 学习golang后端，计算机基础ing...
+
+![Rinai-R's github stats](https://acedev003-readme-stats.vercel.app/api?username=Rinai-R&theme=radical&count_private=true&show_icons=true)
