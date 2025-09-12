@@ -1,4 +1,4 @@
-> 邮箱: rinai@g-rinai.cn
+> 邮箱: whrinai@outlook.com
 >
 > 一些关于我的网站 :
 >
